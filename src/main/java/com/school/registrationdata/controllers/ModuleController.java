@@ -1,13 +1,13 @@
-package com.school.modules.controllers;
+package com.school.registrationdata.controllers;
 
 import java.net.URI;
 import java.util.List;
 import java.util.Optional;
 
-import com.school.modules.exceptions.ModuleAlreadyExistsException;
-import com.school.modules.exceptions.ModuleNotFoundException;
-import com.school.modules.dtos.Module;
-import com.school.modules.repositories.ModuleRepository;
+import com.school.registrationdata.exceptions.ModuleAlreadyExistsException;
+import com.school.registrationdata.exceptions.ModuleNotFoundException;
+import com.school.registrationdata.dtos.Module;
+import com.school.registrationdata.repositories.ModuleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

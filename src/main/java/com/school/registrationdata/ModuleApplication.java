@@ -1,6 +1,6 @@
-package com.school.modules;
+package com.school.registrationdata;
 
-import com.school.modules.repositories.ModuleRepository;
+import com.school.registrationdata.repositories.ModuleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package com.school.modules.enums;
+package com.school.registrationdata.enums;
 
 public enum Departement {
 	

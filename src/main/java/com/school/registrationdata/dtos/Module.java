@@ -1,6 +1,6 @@
-package com.school.modules.dtos;
+package com.school.registrationdata.dtos;
 
-import com.school.modules.enums.Departement;
+import com.school.registrationdata.enums.Departement;
 
 import javax.persistence.Entity;
 import javax.persistence.EnumType;

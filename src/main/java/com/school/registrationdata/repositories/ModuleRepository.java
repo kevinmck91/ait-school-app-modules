@@ -1,7 +1,7 @@
-package com.school.modules.repositories;
+package com.school.registrationdata.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.school.modules.dtos.Module;
+import com.school.registrationdata.dtos.Module;
 
 import java.util.List;
 import java.util.Optional;
